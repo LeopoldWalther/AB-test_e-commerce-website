@@ -1,4 +1,4 @@
-# Analyze AB Test Results
+# Analyze AB Testing Results
 This project is a A/B Test run on an e-commerce website to decide wether they should implement the new web page, keep the old page, or perhaps runt the experiment longer to make their decision.This project is part of the Udacitiy Nanodegree Data Analyst.
 
 ## Quickstart for beginners
